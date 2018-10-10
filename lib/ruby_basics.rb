@@ -22,9 +22,11 @@ def return_a_value
 end
 
 def last_evaluated_value
-
+ phrase="expert"
+ return phrase
 end
 
-def pizza_party
+def pizza_party (argument1='cheese')
+  return argument1
 
 end
