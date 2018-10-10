@@ -8,11 +8,11 @@ def assign_variable(value)
   return name
 end
 
-def argue
-  return argue
+def argue (argument)
+  return argument
 end
 
-def greeting
+def greeting (argument1, argument2)
 
 end
 
